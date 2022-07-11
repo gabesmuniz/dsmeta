@@ -1,6 +1,6 @@
-import logo from '../../img/logo.svg'
+import logo from '../../img/logo.svg';
 
-import './styles.css'
+import './styles.css';
 
 function Header() {
     return (
